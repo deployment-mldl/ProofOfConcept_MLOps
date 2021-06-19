@@ -1,6 +1,7 @@
 # Proof Of Concept MLOps
 
 Example setting up MLOps using databricks-managed mlFlow and Seldon-Core on Azure.
+https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
 
 # How to setup
 
